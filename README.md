@@ -58,8 +58,9 @@ Watch the original tutorial series:
 ```text
 isometric-living-room/
 │
-├── isometric_living_room.blend    # Main Blender file
-├── /renders/                      # Final rendered images
+├── blender-files                  # Main Blender files
+├── renders/                       # Final rendered image
+├── LICENSE                        # License
 └── README.md                      # Project documentation
 ```
 
@@ -84,7 +85,7 @@ Through this project, I gained hands-on experience with:
 
 ## 📸 Preview
 
-![Preview Image]()
+![Preview Image](renders/preview.jpg)
 
 ---
 
