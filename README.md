@@ -58,7 +58,7 @@ Watch the original tutorial series:
 ```text
 isometric-living-room/
 │
-├── blender-files                  # Main Blender files
+├── blender-files/                 # Main Blender files
 ├── renders/                       # Final rendered image
 ├── LICENSE                        # License
 └── README.md                      # Project documentation
@@ -106,10 +106,10 @@ Through this project, I gained hands-on experience with:
 
 ## 📂 Project Details
 
-**File**: isometric_living_room.blend
-**Blender Version**: 3.6+
-**Render Engines**: Cycles & Eevee compatible
-**Created**: [October 11, 2025]
+- **File**: isometric_living_room.blend
+- **Blender Version**: 3.6+
+- **Render Engines**: Cycles & Eevee compatible
+- **Created**: [October 11, 2025]
 
 ---
 
