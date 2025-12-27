@@ -2,7 +2,8 @@
 
 A cozy isometric 3D room created in Blender as part of my Computer Graphics elective, following the tutorial by 3DGreenhorn to learn fundamental 3D modeling and scene composition techniques.
 
-> **Note on Tutorial**: This project was created by following the "Isometric Living Room" tutorial series by 3DGreenhorn on YouTube. All credit for the original design and teaching methodology goes to the tutorial creator.
+> [!NOTE]
+> This project was created by following the "Isometric Living Room" tutorial series by 3DGreenhorn on YouTube. All credit for the original design and teaching methodology goes to the tutorial creator.
 
 **Key Features**:
 - ✅ **Complete isometric scene** with furniture and decor
