@@ -121,3 +121,24 @@ See [LICENSE](LICENSE) for details.
 ---
 
 _⭐ If you liked this project, consider leaving a star or checking out my other creative coding and 3D design projects!_
+
+
+```mermaid
+graph TD
+    A[Start Problem] --> B{What are you given?};
+    
+    B --> C["Given: f (Hz), T_s (s)<br>or real-world units"];
+    B --> D["Given: x[n] equation<br>or discrete sequence"];
+    
+    C --> E[You're in CONTINUOUS domain];
+    D --> F[You're in DISCRETE domain];
+    
+    E --> G[Calculate f_s = 1/T_s];
+    E --> H[Check Nyquist: f_s ≥ 2f_max];
+    
+    F --> I[Extract ω_s from x[n]];
+    F --> J[Find aliases: ω_s ± 2πk];
+    
+    G --> K[Maybe then find ω_s = 2πf/f_s];
+    I --> L[Maybe relate back to f = ω_s f_s/2π];
+```
